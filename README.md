@@ -1,1 +1,2 @@
-# section-B
+# string.isupper
+In Python, issupper() is a string method used to check whether all the characters in a string are uppercase. It returns True if all alphabetic characters are uppercase; otherwise, it returns False. If the string contains no alphabetic characters, it returns False.
